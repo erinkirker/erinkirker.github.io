@@ -1,0 +1,71 @@
+.jumbotron{
+	background: -webkit-linear-gradient(to left, #FFAFBD , #ffc3a0); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #FFAFBD , #ffc3a0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
+
+.jumbotron h1{
+	font-family: 'Norican';
+	font-size: 48px;
+	color: white;
+}
+
+.quote h3{
+	font-family: 'Coming Soon';
+	font-style: italic;
+}
+
+.quote p{
+	font-family: 'Vidaloka';
+	font-size: 14pt;
+}
+
+.nav{
+	font-family: 'Coming Soon';
+	font-weight: lighter;
+	font-size: 14pt;
+	color:pink;
+	padding:5px;
+}
+
+.aboutme h2{
+	font-family: 'Vidaloka';
+	font-weight: lighter;
+	background-color:#ffc3a0;
+	color:white;
+	padding:5px;
+}
+
+.row{
+	font-family: 'Coming Soon';
+	padding:10px;
+}
+
+
+img {
+	max-width:480px;
+	height:auto;
+}
+
+.container{
+	background-color:white;
+	border: 2px white;
+	border-radius: 4px;
+}
+
+body{
+	background-image: url("http://hotphotosfree.com/sites/default/files/styles/large/public/field/image/9f279ff82d3d93694bec358b53399ef4.jpg?itok=NDNXCQD9");
+}
+
+
+.partner h2{
+	font-family: 'Vidaloka';
+	font-weight: lighter;
+	background-color:#ffc3a0;
+	color:white;
+	padding:5px;
+}
+
+ul{list-style-image: url("img/bone.png")}
+
+
